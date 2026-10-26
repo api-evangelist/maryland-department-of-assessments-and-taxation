@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Maryland Department of Assessments and Taxation is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://dat.maryland.gov/Pages/default.aspx
+The Maryland Department of Assessments and Taxation (MDAT) is the state agency responsible for maintaining property and business records, assessing real‑property values, and providing a range of online services to Maryland residents, businesses, and government entities. It offers searchable databases for business entities, real‑property assessments, tax credits, and more, accessible through its public web portals and data services.
+
+**Areas:** Government · Real Estate · Business Services · Data · Maryland
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dat.maryland.gov/Pages/default.aspx)
+- [Privacy policy](http://www.maryland.gov/pages/privacy_security.aspx)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/maryland-department-of-assessments-and-taxation/](https://apis.io/providers/maryland-department-of-assessments-and-taxation/).
